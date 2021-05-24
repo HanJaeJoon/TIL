@@ -3,7 +3,7 @@
 
 ---
 ### [TIL](./TIL/README.md)
-- [firstTIL](./TIL/firstTIL/README.md)
+- [202105025_CustomErrors](./TIL/202105025_CustomErrors/README.md)
 
 - [secondTIL](./TIL/secondTIL/README.md)
 
