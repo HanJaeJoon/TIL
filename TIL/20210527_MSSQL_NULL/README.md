@@ -3,7 +3,7 @@
 MS SQL Server에서 Order by NULL을 마지막으로 정렬하려면 아래와 같이 사용하면 된다.
 ```
 ORDER BY -Column DESC
-````
+```
 
 ---
 
@@ -21,6 +21,6 @@ ORDER BY Column DESC NULLS LAST
 결국 아래 방법으로 간단하게 NULL을 가장 하단으로 보낼 수 있었다. 
 ```
 ORDER BY -Column DESC
-````
+```
 
 한국인의 감성에 집계는 아래로 와야 제맛이지~  
