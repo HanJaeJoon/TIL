@@ -13,3 +13,5 @@
 
 - [20210601_data_attribute](./TIL/20210601_data_attribute/README.md)
 
+- [20210602_string_IsNullOrEmpty_IsNullOrWhiteSpace](./TIL/20210602_string_IsNullOrEmpty_IsNullOrWhiteSpace/README.md)
+
