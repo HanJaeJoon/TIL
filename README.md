@@ -1,5 +1,5 @@
 # 
-# generate_readme_automatically
+# TIL👨‍🎓
 
 ---
 ### [TIL](./TIL/README.md)
