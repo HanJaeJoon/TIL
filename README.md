@@ -1,5 +1,5 @@
 # 
-# generate_readme_automatically
+# TIL👨‍🎓
 
 ---
 ### [TIL](./TIL/README.md)
@@ -14,4 +14,6 @@
 - [20210601_data_attribute](./TIL/20210601_data_attribute/README.md)
 
 - [20210602_string_IsNullOrEmpty_IsNullOrWhiteSpace](./TIL/20210602_string_IsNullOrEmpty_IsNullOrWhiteSpace/README.md)
+
+- [20210603_Undo_Commit](./TIL/20210603_Undo_Commit/README.md)
 
