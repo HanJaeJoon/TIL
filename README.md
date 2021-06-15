@@ -27,3 +27,5 @@
 
 - [20210614_SqlParameterCollection_에러](./TIL/20210614_SqlParameterCollection_%EC%97%90%EB%9F%AC/README.md)
 
+- [20210616_Empty_Object](./TIL/20210616_Empty_Object/README.md)
+
