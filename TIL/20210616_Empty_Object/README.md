@@ -1,4 +1,4 @@
-## [js] 빈 Object 확인하기
+## [javascript] 빈 Object 확인하기
 
 javascript에서 빈 object(`{}`)인지 확인하려면 아래와 같이 확인하면 된다(ES5 이상).
 ```
