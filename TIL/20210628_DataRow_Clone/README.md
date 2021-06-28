@@ -1,6 +1,6 @@
 ## [C#] DataRow Clone하기
 
-DataTable을 사용하다 보면 DataRow를 복제하고 싶어진다.  
+DataTable을 사용하다 보면 DataRow를 해야 할 때가 있다.  
 
 ```
 var firstRow = dataTable.Rows[0];
