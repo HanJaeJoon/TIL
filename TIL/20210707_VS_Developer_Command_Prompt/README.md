@@ -17,5 +17,6 @@ Visual Studio의 Developer Command Prompt를 이용하면 된다.
 cmd에서 사용해도 된다.
 ![](./images/cmd.png)
 
+### 참고
 - [Developer Command Prompt 사용법](https://docs.microsoft.com/en-us/visualstudio/ide/reference/command-prompt-powershell?view=vs-2019)
 - [Command List](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)
