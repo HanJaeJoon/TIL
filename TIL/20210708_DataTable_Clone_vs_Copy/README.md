@@ -9,3 +9,6 @@ DataRow까지 복사하기 위해서는 `Copy()`를 사용하자!
 > Clone creates a new DataTable with the same structure as the original DataTable,
 > but does not copy any data (the new DataTable will not contain any DataRows).
 > To copy both the structure and data into a new DataTable, use Copy.
+
+### 참고
+- [DataTable Clone](https://docs.microsoft.com/en-us/dotnet/api/system.data.datatable.clone?view=net-5.0#:~:text=Clone%20creates%20a%20new%20DataTable,a%20new%20DataTable%2C%20use%20Copy.)
