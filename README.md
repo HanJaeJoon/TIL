@@ -43,3 +43,5 @@
 
 - [20210708_DataTable_Clone_vs_Copy](./TIL/20210708_DataTable_Clone_vs_Copy/README.md)
 
+- [20210716_MS_SQL_Rename_Column](./TIL/20210716_MS_SQL_Rename_Column/README.md)
+
