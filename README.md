@@ -47,3 +47,5 @@
 
 - [20210722_Ubuntu_Nginx_Error_Log](./TIL/20210722_Ubuntu_Nginx_Error_Log/README.md)
 
+- [20210725_vim_paste_mode](./TIL/20210725_vim_paste_mode/README.md)
+
