@@ -49,3 +49,5 @@
 
 - [20210725_vim_paste_mode](./TIL/20210725_vim_paste_mode/README.md)
 
+- [20210813_javascript_delay_loop](./TIL/20210813_javascript_delay_loop/README.md)
+
