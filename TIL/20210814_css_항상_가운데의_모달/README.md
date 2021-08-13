@@ -6,7 +6,7 @@ inner div에는 modal의 내용이 들어간다.
 요즘 잘 듣고있는 악뮤의 낙하 뮤직비디오를 넣었다.  
 
 아래 fiddle에서 직접 확인할 수 있다.  
-<iframe width="100%" height="500" src="//jsfiddle.net/jjhan/oem8sqa4/28/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+https://jsfiddle.net/jjhan/oem8sqa4/28/
 
 ### HTML
 ```
@@ -41,5 +41,5 @@ inner div에는 modal의 내용이 들어간다.
 ```
 
 스크롤를 어떻게 움직이든 악뮤는 가운데 고정이 된다.  
-
+ 
 ![](./images/1.png)
