@@ -55,3 +55,5 @@
 
 - [20210815_Git_Repository_복사하기](./TIL/20210815_Git_Repository_%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0/README.md)
 
+- [20210917_Sql_delete_alias](./TIL/20210917_Sql_delete_alias/README.md)
+
