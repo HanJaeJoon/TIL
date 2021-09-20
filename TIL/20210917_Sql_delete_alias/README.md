@@ -1,4 +1,4 @@
-# [MSSQL] DELETE, UPDATE 문에서 Alias 사용
+# [MS-SQL] DELETE, UPDATE 문에서 Alias 사용
 
 간단한데 늘 헷갈리는 DELETE, UPDATE 문에서 Alias 사용하는 법  
 
